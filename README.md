@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning cybersecurity
 - 💞️ I’m looking to collaborate on cybersecurity obviously
 - 📫 How to reach me : emilien.devaux@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I once hate snake
 
 <!---
 milhaze/milhaze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
